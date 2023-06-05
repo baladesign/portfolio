@@ -1,0 +1,194 @@
+/*first section*/
+.image-background {
+    width: 400px;
+    height: 500px;
+    background-color: red;
+    border-radius: 50% 20px;
+}
+p.left-text {
+    line-height: 1.7;
+    color: black;
+    text-transform: capitalize;
+    font-size: 18px;
+}
+button.btn-one {
+    border-radius: 10px;
+    background-color: red;
+    padding: 10px 22px;
+    color: white;
+    font-weight: bold;
+    border: none;
+    text-decoration: none;
+    
+}
+button.btn-one:hover{
+    background-color: #003466;
+
+}
+span.second-title {
+    color: #003466;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+p.foot-cont-one {
+    font-size: 19px;
+}
+.footer-bottom-two {
+    border-top: 1px solid gray;
+    height: 40px;
+    width: 100%;
+}
+.Portfolio-one {
+    width: 300px;
+    height: 100px;
+}
+img.logo-thrid {
+    width: 100%;
+    object-fit: contain;
+
+}
+.text-center {
+    font-weight: 500;
+    text-transform: uppercase;
+}
+
+/*second section*/
+p.Right-text {
+    text-transform: capitalize;
+    line-height: 1.7;
+    color: black;
+    font-size: 18px;
+
+}
+img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+img.first-image {
+    border-radius: 10px;
+}
+/*thrid section*/
+.thrid-background {
+    width: 100%;
+    background-color: #113f4e;
+}
+
+/*map*/
+iframe {
+    
+    width: 100%;
+}
+/*footer*/
+.foot-background {
+    background-color: #212529;
+    width: 100%;
+}
+h4 {
+    color: white;
+    text-transform: capitalize;
+}
+p.foot-left-text {
+    color: white;
+    line-height: 1.5;
+    
+}
+
+li {
+    list-style-type: none;
+    color: white;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+p {
+    color: white;
+
+}
+p.foot-left-text {
+    line-height: 1.7;
+    color: white;
+    text-transform: capitalize;
+    font-size: 18px;
+}
+svg.svg-inline--fa.fa-envelope {
+    margin-right: 10px;
+    
+    
+    
+}
+svg.svg-inline--fa.fa-phone {
+     margin-right: 10px;
+
+     
+    
+}
+
+/*contact page section*/
+.banners-contact {
+   border-top: 1px solid gray;
+}
+.head-contact {
+    position: absolute;
+    top: 20%;
+    left: 40%;
+    
+}
+a.icons-get {
+    text-decoration: none;
+    color: black;
+}
+p.contact-first {
+    color: black;
+    font-size: 19px;
+    font-weight: 500;
+    text-transform: capitalize;
+    margin-left: 20px;
+}
+p.contact-second {
+    color: black;
+    font-size: 19px;
+    font-weight: 500;
+    text-transform: capitalize;
+}
+button.btn.btn-primary.btn-block {
+    width: 100%;
+}
+h4 {
+    color: red;
+}
+h1 {
+    color: #003466;
+
+}
+svg.svg-inline--fa.fa-envelope {
+    color: #FF9800;
+}
+svg.svg-inline--fa.fa-phone {
+    color: #FF9800;
+}
+img.contact-image {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    position: relative;
+    
+}
+a.icons {
+    color: white;
+    text-decoration: none;
+}
+p.text-banner {
+    font-size: 50px;
+    text-transform: capitalize;
+}
+
+/*protfolio css*/
+
+.footer-bottom {
+    border-top: 1px solid gray;
+}
+
+
+
+
+   
